@@ -1,7 +1,7 @@
 
 app = (function () {
     var numberU;
-    var url= '';
+    var url= 'http://ec2-3-81-141-60.compute-1.amazonaws.com:4567';
 
 
     return {
