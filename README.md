@@ -32,9 +32,9 @@ mvn exec:java -DexecainClass="edu.escuelaing.arep.WebApp"
 
 ```
 
-### Proccedure
+### Procedure
 
-
+El procedimiento de los pasos seguidos para realizar la aplicación y crear un servicio que recibe un parametro numerico y retorna el cuadrado del número usando las herramientas de AWS, el el siguiente: [procedimiento](https://github.com/Siabell/Arep-LambdaGateway/blob/master/LambdaGateway.pdf)
 
 
 ### Prerequisites
